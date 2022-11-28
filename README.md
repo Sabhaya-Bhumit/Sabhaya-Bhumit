@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sabhaya-Bhumit?tab=repositories](https://github.com/Sabhaya-Bhumit?tab=repositories)
 
-- 💬 Ask me about **I Am Flutter Developer**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **sabhayabhumit@gmail.com**
 
